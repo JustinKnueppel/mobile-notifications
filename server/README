@@ -1,5 +1,7 @@
 # Server
 
+Initial code based off of [push-payload](https://github.com/mdn/serviceworker-cookbook/tree/master/push-payload) by MDN
+
 This server has the following responsibilities:
 
 - Handle web worker setup
