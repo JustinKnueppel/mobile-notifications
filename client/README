@@ -1,0 +1,7 @@
+# Client
+
+The client has the following responsibilities:
+
+- Initialize web worker on user's device
+- Listen for push notifications from server
+- Send push notification to device

@@ -1,0 +1,7 @@
+# Server
+
+This server has the following responsibilities:
+
+- Handle web worker setup
+- Listen for notifications
+- Push notifications to web worker

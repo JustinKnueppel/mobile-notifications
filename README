@@ -1,0 +1,3 @@
+# Mobile Notifications
+
+The purpose of this repository is to set up a URL which will forward data to a push notification on a mobile device. This will be achieved via web workers listening for push notifications that will be sent when the server processes a new request. This would allow for programmatically sending notifications to your own mobile device without paying for a cloud service or proxying them through an app such as Slack.
