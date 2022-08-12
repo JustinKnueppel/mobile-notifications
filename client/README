@@ -1,5 +1,7 @@
 # Client
 
+Inital client code adapted from [push-payload](https://github.com/mdn/serviceworker-cookbook/tree/master/push-payload) by MDN
+
 The client has the following responsibilities:
 
 - Initialize web worker on user's device
